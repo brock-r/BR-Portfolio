@@ -1,4 +1,4 @@
-# Data-Computer-Science-Portfolio
+# Data/Computer Science Portfolio
 My Computer / Data Science Portfolio as a university level computer science student.
 
 A repository of the body of academic and personal projects with the use of Python. Mainly presented in the form of Jupyter notebook files.
