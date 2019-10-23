@@ -7,7 +7,7 @@ A repository of the body of academic and personal projects with the use of Pytho
 
 ### Data Analysis and Visualization
 
-[UFC Title Contender Exploratory Data Analysis](https://github.com/brock-r/Data-Computer-Science-Portfolio/blob/master/UFC%20Contender%20Analysis.ipynb) - An exploratory data analysis of championship contenders in the Ultimate Fighting Championship (UFC), win totals, fight experience analysis and much more for UFC fighters leading up to a title fight. With a dataset hosted on Kaggle using Python's Seaborn, Matplotlib, and Pandas libraries.
+[UFC Title Contender Exploratory Data Analysis](https://github.com/brock-r/Data-Computer-Science-Portfolio/blob/master/UFC%20Contender%20Analysis.ipynb) - An exploratory data analysis of championship contenders in the Ultimate Fighting Championship (UFC). Including indepth data cleaning and filtering, win totals, fight experience analysis and much more for UFC fighters leading up to a title fight. With a dataset hosted on Kaggle using Python's Seaborn, Matplotlib, and Pandas libraries.
 
 [Stock Data Analysis (Course Project)](https://github.com/brock-r/Data-Computer-Science-Portfolio/blob/master/Finance%20Capstone%20Project%20.ipynb) - An exploratory data analysis of stock data from major stock companies ranging from 2008-2016, close price, daily returns and much more. data gathered from Kaggle, using Python's Seaborn, Matplotlib, iplotly and Pandas libraries.
 
