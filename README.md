@@ -1,7 +1,7 @@
 # Data/Computer Science Portfolio
-My Computer / Data Science Portfolio as a university level computer science student.
+My Computer / Data Science Portfolio as a university level Computer Science student.
 
-A repository of my academic and personal projects with the use of Python. Mainly presented in the form of Jupyter notebook files.
+A repository of my academic and personal projects with the use of Python.
 
 ## Table of Contents
 
