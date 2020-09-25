@@ -1,8 +1,6 @@
 # Data/Computer Science Portfolio
 My Computer / Data Science Portfolio as a university-level Computer Science student.
 
-A repository of my academic and personal projects with the use of Python.
-
 ## Table of Contents
 
 ### Data Analysis and Visualization
