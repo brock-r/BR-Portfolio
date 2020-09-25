@@ -20,3 +20,6 @@ A repository of my academic and personal projects with the use of Python.
 - Exploratory Data Analysis on 911 calls data, a look at reasons for 911 calls, popular months for calls, and other related topics. Data gathered from Kaggle, using Python's Seaborn, Matplotlib, and Pandas libraries.
 
 ### Machine Learning
+
+[Linear Regression for Ecommerce Data](https://github.com/brock-r/BR-Portfolio/blob/master/Linear%20Regression/LinearRegression.ipynb)
+- Conducted exploratory data analysis utilizing Seaborn, Matplotlib, and Pandas libraries to investigate the relationships present in Ecommerce marketing data. An introductory level project which examines the allocation of resources in website and mobile application marketing.
