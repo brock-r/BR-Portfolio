@@ -19,7 +19,9 @@ My Computer / Data Science Portfolio as a university-level Computer Science stud
 
 ### Machine Learning
 
-[Quaility of Life Analysis](https://github.com/brock-r/Country-Happiness-R-) [The happiness score](https://github.com/brock-r/Country-Happiness-R-/blob/main/HappinessCode/CSVFILES/WorldHappinessReport2018-Score.csv) is based on the findings of The World Happiness
+[Quaility of Life Analysis](https://github.com/brock-r/Country-Happiness-R-) 
+
+- [The happiness score](https://github.com/brock-r/Country-Happiness-R-/blob/main/HappinessCode/CSVFILES/WorldHappinessReport2018-Score.csv) is based on the findings of The World Happiness
 Report which is annually publicized by the United Nations. I compared the score with various country-specific data
 gathered within [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/) related to technology, education, health, and government. With the ultimate goal of discovering which of these factors impact happiness the most and why Techniques of data wrangling, exploratory data analysis with descriptive statistics, and modelling such as regression analysis are all applied to drawn meaningful conclusions. A final written report summarizes the comprehensive results of the project, which can be found [here]( https://github.com/brock-r/Country-Happiness-R-/blob/main/HappinessCode/Final-Report.pdf).
 
