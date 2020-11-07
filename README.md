@@ -28,7 +28,4 @@ gathered within [The World Factbook](https://www.cia.gov/library/publications/th
 [Linear Regression for Ecommerce Data](https://github.com/brock-r/BR-Portfolio/blob/master/Linear%20Regression/LinearRegression.ipynb)
 - Conducted exploratory data analysis utilizing Seaborn, Matplotlib, and Pandas libraries to investigate the relationships present in Ecommerce marketing data. An introductory level project which examines the allocation of resources in website and mobile application marketing.
 
-### Games
 
-[Board and Card Games](https://github.com/brock-r/Games)
-- Simple but fun implementations of board and card games in python, including popular favourites such as Tic-Tac-Toe and Blackjack. Uses both functional and Object-Oriented Programming depending on the simplicity of the game.
