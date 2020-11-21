@@ -1,5 +1,5 @@
 # Data/Computer Science Portfolio
-My Computer / Data Science Portfolio as a university-level Computer Science student.
+A brief summary of Computer / Data Science Portfolio as a university-level Computer Science student. Each project has its own repository with more in-depth descriptions.
 
 ## Table of Contents
 
@@ -8,7 +8,7 @@ My Computer / Data Science Portfolio as a university-level Computer Science stud
 [Advanced Sport Statistics Social Media Project](https://github.com/brock-r/SportsAnalytics-)
 - Web Scraping advanced sports statistics using Python's Beautiful Soup library, extracting data from a variety of different website links. Organizing data into Pandas dataset for data cleaning and sport-related feature additions. The [Athlete Profiles]( https://github.com/brock-r/SportsAnalytics-/blob/master/AndNewAnalytics/Athlete%20Profiles.ipynb) file contains summary statistics of all fighters throughout their careers. The [Fight Statistics](https://github.com/brock-r/SportsAnalytics-/blob/master/AndNewAnalytics/Fight%20Stats.ipynb) file contains fight data from every UFC event. The data is managed within a PostgreSQL database. Python scripts are automatically ran and implemented after each weekly event via Windows Task Scheduler. Lastly, using photo editing tools such as photoshop to create relevant social media posts that can be found, including animated graphs and much more [here]( https://www.instagram.com/andnewanalytics/). Check out the Python code for an [example week](https://github.com/brock-r/SportsAnalytics-/blob/master/AndNewAnalytics/Example%20Week.ipynb) of statistics.
 
-[UFC Title Contender Exploratory Data Analysis](https://github.com/brock-r/BR-Portfolio/blob/master/Exploratory%20Analysis/UFC%20Contender%20Analysis.ipynb) 
+[UFC Title Contender Exploratory Data Analysis](https://github.com/brock-r/UFC_Contender/blob/main/UFC%20Contender%20Analysis.ipynb)
 - An exploratory data analysis of championship contenders in the Ultimate Fighting Championship (UFC). Including in-depth data cleaning and filtering, win totals, fight experience analysis for UFC fighters leading up to a title fight. With a dataset hosted on Kaggle using Python's Seaborn, Matplotlib, and Pandas libraries.
 
 [Stock Data Analysis (Course Project)](https://github.com/brock-r/StockDataAnalysis/blob/main/Finance%20Capstone%20Project%20.ipynb) 
