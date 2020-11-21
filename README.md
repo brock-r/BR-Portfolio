@@ -11,10 +11,10 @@ My Computer / Data Science Portfolio as a university-level Computer Science stud
 [UFC Title Contender Exploratory Data Analysis](https://github.com/brock-r/BR-Portfolio/blob/master/Exploratory%20Analysis/UFC%20Contender%20Analysis.ipynb) 
 - An exploratory data analysis of championship contenders in the Ultimate Fighting Championship (UFC). Including in-depth data cleaning and filtering, win totals, fight experience analysis for UFC fighters leading up to a title fight. With a dataset hosted on Kaggle using Python's Seaborn, Matplotlib, and Pandas libraries.
 
-[Stock Data Analysis (Course Project)](https://github.com/brock-r/BR-Portfolio/blob/master/Exploratory%20Analysis/Finance%20Capstone%20Project%20.ipynb) 
+[Stock Data Analysis (Course Project)](https://github.com/brock-r/StockDataAnalysis/blob/main/Finance%20Capstone%20Project%20.ipynb) 
 - An exploratory data analysis of stock data from major stock companies ranging from 2008-2016. Including information on close price, daily returns, ect. data gathered from Kaggle, using Python's Seaborn, Matplotlib, iplotly, and Pandas libraries.
 
-[911 Calls Analysis (Course Project)](https://github.com/brock-r/BR-Portfolio/blob/master/Exploratory%20Analysis/Data%20Capstone%20Project%20911%20Calls.ipynb) 
+[911 Calls Analysis (Course Project)](https://github.com/brock-r/911CallsAnalysis/blob/main/Data%20Capstone%20Project%20911%20Calls.ipynb) 
 - Exploratory Data Analysis on 911 calls data, a look at reasons for 911 calls, popular months for calls, and other related topics. Data gathered from Kaggle, using Python's Seaborn, Matplotlib, and Pandas libraries.
 
 ### Machine Learning
