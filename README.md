@@ -19,7 +19,7 @@ A brief summary of Computer / Data Science Portfolio as a university-level Compu
 
 ### Machine Learning
 
-[Quaility of Life Analysis](https://github.com/brock-r/Country-Happiness-R-) 
+[Quality of Life Analysis](https://github.com/brock-r/Country-Happiness-R-) 
 
 - [The happiness score](https://github.com/brock-r/Country-Happiness-R-/blob/main/HappinessCode/CSVFILES/WorldHappinessReport2018-Score.csv) is based on the findings of The World Happiness
 Report which is annually publicized by the United Nations. I compared the score with various country-specific data
